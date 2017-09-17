@@ -1,0 +1,25 @@
+{
+  "name": "aeromitssh",
+  "version": "1.0.0",
+  "description": "AeroMITWebsite",
+  "main": "First.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "Nodeexec.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarth2579/AeroMITWebsite.git"
+  },
+  "author": "Samarth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samarth2579/AeroMITWebsite/issues"
+  },
+  "homepage": "https://github.com/samarth2579/AeroMITWebsite#readme"
+}
